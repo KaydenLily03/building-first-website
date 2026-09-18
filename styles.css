@@ -75,3 +75,8 @@ nav {
   display: flex; 
 
 }
+
+.about-me__info--cotainer {
+  display: flex;
+  justify-content: center;
+}
