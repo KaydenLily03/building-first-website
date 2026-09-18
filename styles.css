@@ -22,6 +22,13 @@ p {
 li {
   list-style-type: none;
 }
+
+.flex {
+  display: flex; 
+}
+.flex-1 {
+  flex: 1;
+}
 /* NAVIGATION BAR */
 
 nav {
@@ -62,4 +69,9 @@ nav {
   margin: 0 12px;
   font-weight: bold;
 }
+/* ABOUT ME */
+#about-me {
+  min-height: 100vh;
+  display: flex; 
 
+}
